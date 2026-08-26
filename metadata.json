@@ -1,0 +1,6 @@
+{
+  "name": "Bankey Bihari Super Store",
+  "description": "Full-stack grocery e-commerce app for Bankey Bihari Super Store in Jai Vihar, Najafgarh, New Delhi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
